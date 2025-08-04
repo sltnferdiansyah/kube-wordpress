@@ -1,2 +1,2 @@
-# kube-lab
-kubernetes lab
+# kube-lab-wordpress
+kubernetes wordpress deployment lab
